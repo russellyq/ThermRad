@@ -18,7 +18,7 @@ daytime
 ![](daytime_sample.jpg)
 
 nightime
-![](nightime_sample.jpg)
+![](night_sample.jpg)
 
 rain
 ![](rain_sample.jpg)
