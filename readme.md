@@ -1,3 +1,4 @@
+<img src="logo.jpg" align="right" width="25%">
 
 # ThermRad Dataset
 
