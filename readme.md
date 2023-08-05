@@ -1,5 +1,6 @@
 
 # ThermRad Dataset
+This repository provides a description of ThermRad which is currently still under construction.
 
 # Data Collection #
 
