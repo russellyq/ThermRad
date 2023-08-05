@@ -7,8 +7,6 @@ This repository provides a description of ThermRad which is currently still unde
 ## Overview
 - [Introduction](#introduction)
 - [Data Collection](#data-collection)
-- [Access_License](#access_license)
-- [Acknowledgement](#acknowledgement)
 - [Citation](#citation)
 <br>
 
@@ -45,7 +43,7 @@ This repository provides a description of ThermRad which is currently still unde
 <p float="center">
 <img src="daytime_sample.jpg" width="300"/>
 <img src="night_sample.jpg" width="300" />
-<img src="rain_sample.jpgf" width="300"/>
+<img src="rain_sample.jpg" width="300"/>
 <br />
 <b>Data annotation</b>
 </p>
