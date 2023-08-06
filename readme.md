@@ -30,9 +30,9 @@ This repository provides a description of ThermRad which is currently still unde
 
 <div align="center">
 <p float="center">
-<img src="sunnny_day%2000_00_00-00_00_30.gif" width="300"/>
-<img src="night%2000_00_00-00_00_30.gif" width="300" />
-<img src="Off_campus%2000_00_00-00_00_30.gif" width="300"/>
+<img src="sunnny_day%2000_00_00-00_00_30.gif" width="200"/>
+<img src="night%2000_00_00-00_00_30.gif" width="200" />
+<img src="Off_campus%2000_00_00-00_00_30.gif" width="200"/>
 <br />
 <b>Data collection process</b>
 </p>
@@ -41,9 +41,9 @@ This repository provides a description of ThermRad which is currently still unde
 
 <div align="center">
 <p float="center">
-<img src="daytime_sample.jpg" width="300"/>
-<img src="night_sample.jpg" width="300" />
-<img src="rain_sample.jpg" width="300"/>
+<img src="daytime_sample.jpg" width="200"/>
+<img src="night_sample.jpg" width="200" />
+<img src="rain_sample.jpg" width="200"/>
 <br />
 <b>Data annotation</b>
 </p>
